@@ -7,7 +7,7 @@ hide-and-seek without you as "it"
 <br><br>
 
 <p align="center">
-  <img src="https://media.tenor.com/PL7V9E-QM4oAAAAM/till-alien-stage.gif" width="700">
+  <img src="https://media.tenor.com/NdrqGNRlQA4AAAAM/till-ivan.gif" width="500">
 </p>
 
 <br><br>
