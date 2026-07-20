@@ -1,1 +1,5 @@
-<img width="200" height="50" alt="Image" src="https://github.com/user-attachments/assets/0ac05ff9-8de4-49d4-a3f8-13355031144f" />
+	                                   Hide-and-seek without you as “it”
+                                     
+<img width="220" height="124" alt="Image" src="https://github.com/user-attachments/assets/a0e744d2-7cd1-4c30-b85c-49abbca118fb" />
+
+                                         なんか言いたいんだ バイバイ
