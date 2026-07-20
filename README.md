@@ -6,7 +6,9 @@ hide-and-seek without you as "it"
 
 <br><br>
 
-<img width="220" height="124" alt="Image" src="https://github.com/user-attachments/assets/a0e744d2-7cd1-4c30-b85c-49abbca118fb" width="600">
+<p align="center">
+  <img src="https://media.tenor.com/PL7V9E-QM4oAAAAM/till-alien-stage.gif" width="700">
+</p>
 
 <br><br>
 
