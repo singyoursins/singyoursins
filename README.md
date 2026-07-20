@@ -7,7 +7,7 @@ hide-and-seek without you as "it"
 <br><br>
 
 <p align="center">
-  <img src="https://tenor.com/view/mikoto-milgram-requiem-gif-16556041294553808063" width="500">
+  <img width="500" height="125" alt="Image" src="https://github.com/user-attachments/assets/76779eda-5abc-4306-a975-7af2112ed1f1" />
 </p>
 
 <br><br>
