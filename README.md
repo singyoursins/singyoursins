@@ -7,7 +7,7 @@ hide-and-seek without you as "it"
 <br><br>
 
 <p align="center">
-  <img width="500" height="300" alt="Image" src="https://github.com/user-attachments/assets/76779eda-5abc-4306-a975-7af2112ed1f1" />
+  <img src="https://media.tenor.com/7m8uXMa2zn0AAAAM/mikoto-t3.gif" width="500">
 </p>
 
 <br><br>
